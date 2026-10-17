@@ -1,6 +1,6 @@
 # 🎬 AutoClip Streamer — Releases Oficiales (Windows 64-bit)
 
-[![Última Versión](https://img.shields.io/badge/Versi%C3%B3n-v1.4.0-10b981?style=for-the-badge)](https://github.com/fjll0019/AutoClip-Streamer-Releases/releases/latest)
+[![Última Versión](https://img.shields.io/github/v/release/fjll0019/AutoClip-Streamer-Releases?label=%C3%9Altima%20Versi%C3%B3n%20(Latest)&color=10b981&style=for-the-badge)](https://github.com/fjll0019/AutoClip-Streamer-Releases/releases/latest)
 [![Plataforma](https://img.shields.io/badge/Windows-10%20%7C%2011%20(64--bit)-06b6d4?style=for-the-badge&logo=windows)](https://autoclipstreamer.com)
 [![IA Local](https://img.shields.io/badge/IA%20Local-100%25%20Privado%20%7C%20Sin%20Nube-111115?style=for-the-badge)](https://autoclipstreamer.com)
 
@@ -10,7 +10,9 @@ Repositorio oficial de distribución binaria de **[AutoClip Streamer](https://au
 
 ## ⬇️ Descarga Directa (Edición Portable — Sin Instalación)
 
-👉 **[Descargar AutoClip_Streamer_Portable.zip (Última Versión v1.4.0)](https://github.com/fjll0019/AutoClip-Streamer-Releases/releases/latest/download/AutoClip_Streamer_Portable.zip)**
+👉 **[Descargar AutoClip_Streamer_Portable.zip (Latest / Última Versión)](https://github.com/fjll0019/AutoClip-Streamer-Releases/releases/latest/download/AutoClip_Streamer_Portable.zip)**
+
+> 💡 También puedes consultar todas las versiones y notas de parche en la página de **[Releases Oficiales (Latest)](https://github.com/fjll0019/AutoClip-Streamer-Releases/releases/latest)**.
 
 * **100 % Portable**: No modifica el registro del sistema ni instala servicios en segundo plano.
 * **Todo Incluido**: Incorpora el motor de IA (`faster-whisper` / CTranslate2), `FFmpeg` con aceleración por hardware y la interfaz nativa de escritorio lista para usar.
@@ -31,9 +33,9 @@ Repositorio oficial de distribución binaria de **[AutoClip Streamer](https://au
 
 ---
 
-## ✨ Novedades Destacadas en `v1.4.0`
+## ✨ Características Principales del Estudio
 
-* 🎨 **Nuevo Diseño Studio NLE Precision Dark UI**: Estética profesional de estudio en tonos *Obsidian Carbon* (`#09090b`), *Hardware Emerald* (`#10b981`) y *Electric Cyan* (`#06b6d4`), con bordes especulares de `1px`, tipografía `tabular-nums` en métricas/tiempos y soporte de accesibilidad por teclado WCAG AA (`:focus-visible`).
+* 🎨 **Diseño Studio NLE Precision Dark UI**: Estética profesional de estudio en tonos *Obsidian Carbon* (`#09090b`), *Hardware Emerald* (`#10b981`) y *Electric Cyan* (`#06b6d4`), con bordes especulares de `1px`, tipografía `tabular-nums` en métricas/tiempos y soporte de accesibilidad por teclado WCAG AA (`:focus-visible`).
 * 🎛️ **Revelación Progresiva (Progressive Disclosure)**: Flujo de análisis simplificado en el Paso 1 con los controles avanzados de transcripción y presets agrupados en un acordeón desplegable limpio.
 * ⚡ **Activación PRO en 1 Clic (`autoclip://`)**: Soporte nativo del protocolo `autoclip://activate?key=...` para activar tu licencia directamente desde el navegador tras la compra, además de vinculación criptográfica local por hardware (`MachineGuid`).
 * 📱 **Sincronización Móvil por QR Blindada**: Transferencia ultrarrápida de clips del PC al móvil en tu red Wi-Fi local (LAN) protegida mediante token efímero por sesión y plantilla móvil dedicada.
